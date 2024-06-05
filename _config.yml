@@ -19,9 +19,9 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Rishabh Bhatnagar                          # the main title
+title: Ritu's Recipes
 
-tagline: A Backend Developer   # it will display as the sub-title
+tagline: The tasty kitchen
 
 description: >-                        # used by seo meta and the atom feed
   Rishabh Bhatnagar - The Backend Developer
